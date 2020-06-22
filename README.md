@@ -2,7 +2,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 # Job Listing App in React 
 
-<center><img src="https://raw.githubusercontent.com/sunilchaudhary3112/job_listings/master/demo_job_listing.JPG.JPG" /></center>
+<center><img src="https://raw.githubusercontent.com/sunilchaudhary3112/job_listings/master/demo_job_listing.JPG" /></center>
 
 ## Features
 - Job List 
